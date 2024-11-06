@@ -17,7 +17,7 @@
 - `rsa` package for encryption and signing
 - `socket` for network communication
 
-```bash
+
 pip install rsa
 ## Files
 - `public_key.pem`: Stores RSA public key (auto-generated if not present).
